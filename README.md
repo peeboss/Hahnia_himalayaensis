@@ -1,7 +1,7 @@
- #a spider of ximalya
+ # a spider of ximalya
  
  👋 Hi, I’m @peeboss
- ##usage(windows)
+ ## usage(windows)
  
 
 1.python run.py
